@@ -147,7 +147,7 @@ neuropdf/
 │   ├── sample.pdf                    # Test document
 │   ├── outline.json                  # Sample structure output
 │   └── insights.json
-└── Docker                 # Docker File
+└── Docker File               # Docker File
 └── README.md                         # This file
 ```
 
