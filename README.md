@@ -117,7 +117,6 @@ neuropdf/
 │   │       ├── uploads/               # Uploaded PDFs
 │   │       ├── outline.json          # Extracted document structure
 │   │       └── insights.json         # Generated insights
-│   ├── Dockerfile
 │   ├── requirements.txt
 │   └── README.md
 ├── 📁 frontend/                # Round 2: Web Interface
@@ -147,7 +146,8 @@ neuropdf/
 ├── 📁 sample-data/
 │   ├── sample.pdf                    # Test document
 │   ├── outline.json                  # Sample structure output
-│   └── insights.json                 # Sample insights output
+│   └── insights.json
+└── Docker                 # Docker File
 └── README.md                         # This file
 ```
 
